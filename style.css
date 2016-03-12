@@ -174,8 +174,8 @@ article:after,
 }
 
 .playstore-badge {
-    margin-right: 160px;
-    margin-bottom: 20px;
+    padding-bottom: 15px;
+    padding-right: 140px;
 }
 
 .writrFont {
