@@ -32,3 +32,9 @@
 	font-size: 70px; 
 	color:#82872d;
 }
+
+@media (max-width: 550px) {
+	.section {
+		text-align: center;
+	}
+}
