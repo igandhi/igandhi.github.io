@@ -1,0 +1,34 @@
+.section {
+	padding: 8rem 0 7rem;
+}
+
+.footer, .section-heading {
+	text-align: center;
+}
+
+.main {
+	background-image: url('../images/concrete_seamless.png');
+}
+
+.work {
+	background-image: url('../images/cheap_diagonal_fabric.png');
+}
+
+.project {
+	padding: 5rem 0 5rem;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.writr-brand {
+	font-family: 'Satisfy', cursive;
+    font-size: 70px;
+}
+
+.stallwall-brand {
+	font-family: 'Pacifico', cursive; 
+	font-size: 70px; 
+	color:#82872d;
+}
